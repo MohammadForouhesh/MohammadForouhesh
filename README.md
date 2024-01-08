@@ -41,14 +41,14 @@
 <a href="https://www.scala-lang.org">
   <img align="left" height="30px" src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" />
 </a>
-<a href="https://www.python.org">
-  <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-</a>
 <a href="https://www.java.com/">
   <img align="left" height="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 </a>
 <a href="https://spark.apache.org">
   <img align="left" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
+</a>
+<a href="https://www.python.org">
+  <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
 <a href="https://kafka.apache.org">
   <img align="left" height="30px" src="https://www.instana.com/media/01_INSTANA_IconSet_Kafka.svg" />
